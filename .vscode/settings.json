@@ -1,0 +1,16 @@
+{
+    "editor.formatOnSave": true,
+    "files.eol": "\n",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/.jj": true,
+        "**/.vscode": true,
+        "**/out": true,
+        "**/.gitignore": true,
+        "**/.clang-format": true,
+    }
+}

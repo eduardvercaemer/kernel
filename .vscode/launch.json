@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "gdb",
+            "request": "attach",
+            "name": "Attach to QEMU",
+            "executable": "./out/kernel.elf",
+            "remote": true,
+            "target": "localhost:1234",
+            "cwd": "${workspaceRoot}",
+            "valuesFormatting": "parseText",
+            "autorun": []
+        }
+    ]
+}

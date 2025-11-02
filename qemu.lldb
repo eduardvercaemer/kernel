@@ -1,0 +1,4 @@
+target create out/kernel.elf
+gdb-remote localhost:1234
+breakpoint set --name kmain
+continue
