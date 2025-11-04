@@ -45,4 +45,4 @@ make lldb
 
 ## Changelog
 
-- 2025-11-02: hello world with serial output!
+- 2025-11-02 (`9643a362`): hello world with serial output!
